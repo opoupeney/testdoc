@@ -29,7 +29,7 @@ var f = (p) => {
 
 Let's try an API
 
-{% api-method method="get" host="https://domain.test.com" path="" %}
+{% api-method method="get" host="https://domain.test.com" path="/v1/user/:id" %}
 {% api-method-summary %}
 user
 {% endapi-method-summary %}
