@@ -25,6 +25,15 @@ var f = (p) => {
 {% tab title="Second Tab" %}
 
 {% endtab %}
+{% tab title="Third Tab" %}
+```java
+String s="Hello";
+@get
+getUser() = {
+    // something here
+}
+```
+{% endtab %}
 {% endtabs %}
 
 Let's try an API
