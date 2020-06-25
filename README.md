@@ -27,7 +27,7 @@ var f = (p) => {
 {% endtab %}
 {% tab title="Third Tab" %}
 ```java
-String s="Hello";
+String s="Hello develop";
 @get
 getUser() = {
     // something here
